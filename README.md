@@ -1,1 +1,1 @@
-https://wokwi.com/projects/stm32.2
+https://wokwi.com/projects/478731027738936321
